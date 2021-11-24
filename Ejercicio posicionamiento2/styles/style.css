@@ -1,0 +1,28 @@
+div{
+	border: solid #4D0084 2px;
+	background: #65FEFE;
+	width: 100px;
+	padding-top: 10px;
+
+}
+.d1{
+position: absolute;
+
+}
+#d1{
+position: absolute;
+left: 130px;
+}
+.d2{
+position: absolute;
+left: 260px;
+}
+#d2{
+position: absolute;
+left: 390px;
+}
+.d3{
+position: absolute;
+left: 520px;
+}
+
